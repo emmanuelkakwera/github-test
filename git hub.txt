@@ -1,1 +1,3 @@
 print(manzy)
+
+print("i like eating mango")
